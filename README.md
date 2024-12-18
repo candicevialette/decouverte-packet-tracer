@@ -1,5 +1,4 @@
 # 🛡️ **Découverte de Packet Tracer**
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/) [![ICMP](https://img.shields.io/badge/ICMP-009900?style=flat-square&logo=internetexplorer&logoColor=white)](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) [![TCP/UDP](https://img.shields.io/badge/TCP/UDP-006699?style=flat-square&logo=ethernet&logoColor=white)](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 
 ![Banner](image/background.png)
 
@@ -19,14 +18,19 @@ Cet atelier est conçu pour vous aider à développer des comptetences dans la g
 - **Simuler des scénarios de réseau complexes**.
 - **Former et éduquer sur les concepts de réseau et les technologies Cisco**.
   
-- ### 🔗 **Fonctionnalités Principales de Wireshark**
+### 🔗 **Fonctionnalités Principales de Cisco Packet Tracer**
 
-- **Capture de paquets en temps réel** depuis divers types d'interfaces.
-- **Filtrage avancé** pour cibler des paquets spécifiques.
-- **Analyse approfondie** des protocoles réseau (Ethernet, IP, TCP, UDP, ICMP, etc.).
-- **Visualisation des flux de trafic** pour comprendre les communications.
-- **Support des fichiers de capture** au format `.pcap` et `.pcapng`.
-- **Statistiques et graphiques** pour une vue d'ensemble du trafic.
+- **Simulation de réseaux en temps réel** avec différents équipements Cisco (routeurs, commutateurs, points d’accès, etc.).
+- **Configuration des appareils Cisco** via CLI (Command Line Interface) et interface graphique.
+- **Conception et test de topologies réseau** pour des scénarios variés (LAN, WAN, WLAN, etc.).
+- **Outils de capture de paquets intégrés** pour observer les échanges de données entre les appareils.
+- **Prise en charge de nombreux protocoles réseau** (Ethernet, IP, TCP, UDP, ICMP, OSPF, EIGRP, etc.).
+- **Analyse des flux de trafic** pour comprendre les comportements réseau.
+- **Mode de simulation et mode en temps réel** pour expérimenter et diagnostiquer les configurations.
+- **Visualisation des processus de routage et de commutation** pour le suivi des paquets à travers le réseau.
+- **Pratique des compétences en cybersécurité** grâce à des scénarios de sécurité réseau.
+- **Outils pédagogiques intégrés** pour l’apprentissage et la validation des compétences réseau.
+
 
 ---
 
