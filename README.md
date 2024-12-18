@@ -34,19 +34,27 @@ Cet atelier est conçu pour vous aider à développer des comptetences dans la g
 
 ---
 
-## 📖 **Contenu du Dépôt**
+## 📂 **Structure du Dépôt**
 
-- **`documentation/`** : Guides et tutoriels de découverte de Cisco Packet Tracer.
-  - `Bloc1_sem1-atelier_01_VIALETTE_Candice_prise_en_main_de_packet_tracer` : Document de référence pour l'atelier.
-
-- **`image/`** : Images et ressources visuelles pour l'atelier.
-  - `background.png` : Image de fond pour la présentation.
-
-- **`Réseaux/`** : Réseaux Virtuels pour l'atelier.
-  - `20241213_ICMP_172.31.1.67_1.pcap` : Exemple de réseau.
-
-- **`README.md`** : Guide du dépôt.
-
+```
+📂 decouverte-packet-tracer/
+|
+├── 📂 Documents/
+│   ├── Bloc1_sem1-atelier_01_VIALET...
+│   └── Bloc1_sem1-atelier_01_VIALET...
+|
+├── 📂 Réseaux/
+│   ├── Bloc1_sem1-atelier_01_Activite...
+│   ├── Bloc1_sem1-atelier_01_Activite...
+│   └── Bloc1_sem1-atelier_01_Activite...
+|
+├── 📂 image/
+│   └── background.png
+|
+├── Audit_de_securite_Chat_Gpt_4o_router.docx
+├── Markmap_Audit_Securite_ChatGPT.html
+└── README.md
+```
 ---
 
 ## ⚙️ **Prérequis**
