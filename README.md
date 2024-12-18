@@ -51,8 +51,6 @@ Cet atelier est conçu pour vous aider à développer des comptetences dans la g
 ├── 📂 image/
 │   └── background.png
 |
-├── Audit_de_securite_Chat_Gpt_4o_router.docx
-├── Markmap_Audit_Securite_ChatGPT.html
 └── README.md
 ```
 ---
